@@ -16,4 +16,4 @@ OUTPUT_FOLDER = "<path to output of renamed folders>"
 
 ## Usage
 
-`./main2.py`
+`python main2.py`
