@@ -13,3 +13,7 @@ names.
 MOD_FOLDER = "<path to starbound mod folder>"
 OUTPUT_FOLDER = "<path to output of renamed folders>"
 ```
+
+## Usage
+
+`./main2.py`
