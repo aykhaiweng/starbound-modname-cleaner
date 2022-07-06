@@ -10,12 +10,13 @@ from bs4 import BeautifulSoup
 
 THIS_DIR = os.path.dirname(os.path.abspath(__file__))
 
+# This is pointing to the Starbound Steam Workshop folder.
 MOD_FOLDER = "/mnt/g/Steam/steamapps/workshop/content/211820/"
 OUTPUT_FOLDER = os.path.join(THIS_DIR, 'output')
 
 STEAM_WORKSHOP_URL = "https://steamcommunity.com/sharedfiles/filedetails/"
 
-
+# These mods will be ignored and not included in the output folder.
 IGNORED_MOD_IDS = [
     '1264107917',
     '1362924773',
