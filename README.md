@@ -17,3 +17,6 @@ OUTPUT_FOLDER = "<path to output of renamed folders>"
 ## Usage
 
 `python main2.py`
+
+## Notes
+Can technically be used for other workshop apps as well.
