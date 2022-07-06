@@ -1,4 +1,4 @@
-# Starbound Mod Name Cleaner
+# Workshop ID to Mod Name Converter
 
 This application is meant to automate the cleaning required to make
 managing the Starbound mods for a dedicated server easier.
